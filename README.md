@@ -4,7 +4,7 @@ Pythonprogramming for AI course at ITHS
 Kör Laborationsinlämning_1.py och följ instruktionerna i consolen/terminalen.
 
 ## Projektinlämning del 1: Beskrivning av AI problem
-Placerad i samma Notebook.ipynb som Projektinlämning del 1
+Placerad i samma Notebook.ipynb som Projektinlämning del 2, under Projektinlämning del 1-mappen
 
 ## Projektinlämning del 2: Lösning av AI problem
 Placerad i samma Notebook.ipynb som Projektinlämning del 1
